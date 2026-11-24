@@ -17,3 +17,24 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # TMA3084_G02_104442_Lab05_Lesson07
 TMA3084 Software Engineering Laboratory - Lab 05 Lesson 07
+
+## Lab 05 Peer Review
+
+This pull request is created for peer code review
+for TMA3084 Software Engineering Laboratory.
+
+## Lab 05 Review
+
+This pull request is created for teammate code review.
+
+### Completed Tasks
+- Lab A: BottomNavigationBar with four screens.
+- Lab B: DataTable with built-in sorting.
+
+## Lab 05 Review
+
+This repository contains the implementation of:
+- Part 1: BottomNavigationBar
+- Part 2: DataTable with Sorting
+
+This branch is created for peer code review.

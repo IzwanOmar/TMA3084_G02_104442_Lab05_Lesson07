@@ -47,7 +47,10 @@ class _BottomNavLabState extends State<BottomNavLab> {
         foregroundColor: Colors.white,
       ),
 
-      body: screens[currentIndex],
+      body: IndexedStack(
+        index: currentIndex,
+        children: screens,
+      ),
 
       bottomNavigationBar: BottomNavigationBar(
         type: BottomNavigationBarType.fixed,
